@@ -1,6 +1,6 @@
 ## Introduction to Computer Science and Programming Using Python
 
-An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.
+An [introduction to computer science](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) as a tool to solve real-world analytical problems using Python 3.5.
 
 Institution: Massachusetts Institute of Technology.
 
